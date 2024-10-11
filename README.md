@@ -1,9 +1,3 @@
-It seems like you uploaded a project file called "My-first-p5.js-shader-main.zip." Let me take a look at its contents to generate a README for the repo.
-
-Based on the contents of your project folder, here’s a draft of the README file for the repository:
-
----
-
 # My First p5.js Shader
 
 This project demonstrates the implementation of a basic shader using p5.js. It includes vertex and fragment shaders, alongside a simple webpage to render the output.
@@ -42,7 +36,3 @@ To modify the shader, you can edit the `.frag` and `.vert` files, and reload the
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
-
-Feel free to adjust the text based on any specific details you want to highlight or any additional instructions!
